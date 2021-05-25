@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	background-color: lightseagreen; height: 50px; width: 100%; font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; letter-spacing: 5px; text-align: center; padding-top: 10px;
+}
+table,th,td{
+	border: 0px solid black; border-collapse: collapse; font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+th,td{
+	padding: 15px;
+}
